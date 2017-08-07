@@ -1,0 +1,9 @@
+c:\users\tamhv\documents\visual studio 2015\Projects\NLIDB\NLIDB\bin\Debug\NLIDB.exe.config
+C:\Users\tamhv\documents\visual studio 2015\Projects\NLIDB\NLIDB\bin\Debug\NLIDB.exe
+C:\Users\tamhv\documents\visual studio 2015\Projects\NLIDB\NLIDB\bin\Debug\NLIDB.pdb
+C:\Users\tamhv\documents\visual studio 2015\Projects\NLIDB\NLIDB\obj\Debug\NLIDB.Form1.resources
+C:\Users\tamhv\documents\visual studio 2015\Projects\NLIDB\NLIDB\obj\Debug\NLIDB.Properties.Resources.resources
+C:\Users\tamhv\documents\visual studio 2015\Projects\NLIDB\NLIDB\obj\Debug\NLIDB.csproj.GenerateResource.Cache
+C:\Users\tamhv\documents\visual studio 2015\Projects\NLIDB\NLIDB\obj\Debug\NLIDB.exe
+C:\Users\tamhv\documents\visual studio 2015\Projects\NLIDB\NLIDB\obj\Debug\NLIDB.pdb
+C:\Users\tamhv\documents\visual studio 2015\Projects\NLIDB\NLIDB\obj\Debug\NLIDB.csprojResolveAssemblyReference.cache
